@@ -1,3 +1,3 @@
-# cmpe230-pairs
+# GUI Pairs Game
 
-A game known as “Card Match” or “Pairs” using QT. The objective of the game is to turn over pairs of matching cards.
+The game known as “Card Match” or “Pairs” implemented with a GUI using QT. The objective of the game is to turn over every pair of matching cards.
